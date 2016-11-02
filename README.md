@@ -1,2 +1,2 @@
 # Histomics
-Histomics analyses so far
+Histomics analyses: combining histological feature analysis with genomics. 
